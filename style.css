@@ -2,6 +2,20 @@
 .flex-contener{
     display: flex;
     flex-direction: column;
-    align-content: center;
-    background-color: blue;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    width: 600px;
+    text-align: justify;
+}
+h1{
+    background-color: rgb(179, 207, 155);
 }
