@@ -1,0 +1,7 @@
+/* Changement des conteners */
+.flex-contener{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: blue;
+}
